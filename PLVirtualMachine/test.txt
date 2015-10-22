@@ -1,0 +1,8 @@
+load x 10
+load y 5
+loop x
+inc y
+end
+goto: AAA
+inc y
+AAA: inc y
